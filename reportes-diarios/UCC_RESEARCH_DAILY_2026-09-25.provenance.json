@@ -1,0 +1,27 @@
+{
+  "report_id": "UCC-RESEARCH-2026-09-25",
+  "origen": "Claude Researcher",
+  "fecha": "2026-09-25",
+  "timezone": "America/Mexico_City",
+  "estado": "RESEARCH_REPORT",
+  "publicacion": "NO PUBLICADO",
+  "publication_id": "NO GENERADO",
+  "conflicto_declarado": "Reporte generado por Claude (Anthropic). El candidato 02 menciona a Dario Amodei (Anthropic) y el candidato 01 trata sobre OpenAI (competidor directo). Requiere revisión editorial humana del equilibrio.",
+  "candidatos": 5,
+  "candidatos_son_articulos": false,
+  "imagenes_o_assets": "NINGUNO",
+  "feed_reportes_ia": "NO INTEGRADO: no se encontró en los repositorios accesibles la fuente de datos que alimenta #reportes-ia.",
+  "files": [
+    {
+      "path": "reportes-diarios/UCC_RESEARCH_DAILY_2026-09-25.md",
+      "sha256": "e918aa39f7987f1957024e46ab3a9b536ba14b1009a8a3fd2a1dcab21f2cb92c",
+      "bytes": 40387
+    },
+    {
+      "path": "reportes-diarios/UCC_RESEARCH_DAILY_2026-09-25.json",
+      "sha256": "0a9efa287d506f0803b37088625fe79170ce4eb0e1e6198ef391c6ce3d21cdfa",
+      "bytes": 28984
+    }
+  ],
+  "facta_non_ficta": true
+}
